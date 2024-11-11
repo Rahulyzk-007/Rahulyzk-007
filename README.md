@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rahulasam
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning NLP(national language processing)
+- 🌱 I’m currently working on LSTM and recurrent networks
 - 💞️ I’m looking to collaborate on DL projects
 - 📫 How to reach me rahulasam007@gmail.com
 - 😄 Pronouns: he/him
